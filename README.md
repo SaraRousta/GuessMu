@@ -51,7 +51,7 @@ Right click on a character to reactivate it again.
 
 Whenever you ask a question, the oracle's answer will be saved in the logbook. By clicking on the arrows you can scroll through your questions. 
 
-4. ### Hint
+4. ### How to get a hint
 
 Click and hold on the hint button to see which characters to deactivate. You can only get a hint for the latest question, so use it wisely! 
 
