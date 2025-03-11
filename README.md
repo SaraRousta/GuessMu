@@ -25,6 +25,8 @@ This project was done under the supervision of Balder ten Cate and Gregor Behnke
     #### Choose your favourite fragment of propositional logic. Options are 'Negation', 'Conjunction', 'Disjunction', 'Conditional':
    
         CONNECTIVES = ['Negation', 'Conjunction', 'Disjunction', 'Conditional']
+
+   Warning: the options above are not completely independent. If you, for example, only have conjunction as the connective and provide it with only three propositional variables, you cannot have more than 8 characters (there are only 2³ nonequivalent propositional formulas in this case). The game will crash...
   
 5. finally, you can run the game from guessmu.py.
 
