@@ -69,7 +69,7 @@ To run a new game, close the window and rerun the program.
 
 ## Suggestions
 
-If you have any suggestions or updates for this game, I would love to hear/see it!
+If you have any suggestions or updates for this game, I would love to hear about them!
 
 #### Shout outs
 Thank you Balder and Gregor for working with me on this project, I had a lot of fun and I learned a lot. Also, thanks to my amazing friend Laura Robinson for helping me with some design choices and drawing the funky guess logo! 
