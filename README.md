@@ -43,7 +43,7 @@ all give the following assignment:
 
 2. ### How to deactivate/reactivate a character
 
-Active characters have a light blue colour, and inactive ones have a dark grey. 
+Active characters have a light blue colour, and inactive ones have a dark grey one. 
 Left click on a character (formula) to deactivate it. 
 Right click on a character to reactivate it again. 
 
