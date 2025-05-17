@@ -108,10 +108,6 @@ def assignments(atom_symbols):
 
     return assignments
 
-prop_variables = ['P', 'Q', 'R']
-
-assignments(prop_variables)
-
 
 def Equiv_propfmls(fml1, fml2, assignments):
   i = 0
