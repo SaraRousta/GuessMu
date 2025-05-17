@@ -1,5 +1,4 @@
 from mathesis.forms import Negation, Conjunction, Disjunction, Conditional, Atom
-from random import randint
 import numpy as np
 from itertools import product
 
